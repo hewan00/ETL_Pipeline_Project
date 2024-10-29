@@ -13,6 +13,5 @@ This project implements an ETL (Extract, Transform, Load) pipeline that ingests 
 
 1. **Clone the Repository**:
    To use this ETL pipeline, clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/ETL_Pipeline_Project.git
+   git clone https://github.com/hewan00/ETL_Pipeline_Project.git
    cd ETL_Pipeline_Project
